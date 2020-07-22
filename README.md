@@ -1,3 +1,3 @@
 # My-Project-using-html-and-css-
 ###frontend UI
-![](Lifestyle-Store using html.gif)
+https://poojyasree.github.io/My-Project-using-html-and-css-/
